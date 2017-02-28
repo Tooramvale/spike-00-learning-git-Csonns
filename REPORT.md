@@ -1,8 +1,8 @@
 Spike Outcomes
 ==================
-**Spike:** Spike_No
+**Spike:** Spike_No 00
 
-**Title:** Spike_Title
+**Title:** Learning Git
 
 **Author:** John Doe, john.doe@example.com
 
@@ -10,8 +10,8 @@ Spike Outcomes
 _#### Summarise from the spike plan goal_
 _#### Besides this report, what else was created ie UML, code, reports_
 - Code see /spikes/spike04/
-- Short Report titled “IDE Comparison”
-- …
+- Short Report titled “Git Best Practices”
+- ...
 
 ## Technologies, Tools, and Resources used:
 _#### List of information needed by someone trying to reproduce this work_
